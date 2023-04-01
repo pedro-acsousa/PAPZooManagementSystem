@@ -1,0 +1,69 @@
+C:\Users\Aluno\AppData\Local\Temporary Projects\JardimZoologico\bin\Debug\JardimZoologico.exe.config
+C:\jardimzoologicoprojeto\JardimZoologico\JardimZoologico\bin\Debug\JardimZoologico.exe.config
+C:\jardimzoologicoprojeto\JardimZoologico\JardimZoologico\bin\Debug\JardimZoologico.exe
+C:\jardimzoologicoprojeto\JardimZoologico\JardimZoologico\bin\Debug\JardimZoologico.pdb
+C:\jardimzoologicoprojeto\JardimZoologico\JardimZoologico\bin\Debug\JardimZoologico.xml
+C:\jardimzoologicoprojeto\JardimZoologico\JardimZoologico\obj\Debug\JardimZoologico.funcionarios.resources
+C:\jardimzoologicoprojeto\JardimZoologico\JardimZoologico\obj\Debug\JardimZoologico.index.resources
+C:\jardimzoologicoprojeto\JardimZoologico\JardimZoologico\obj\Debug\JardimZoologico.Resources.resources
+C:\jardimzoologicoprojeto\JardimZoologico\JardimZoologico\obj\Debug\JardimZoologico.vbproj.GenerateResource.Cache
+C:\jardimzoologicoprojeto\JardimZoologico\JardimZoologico\obj\Debug\JardimZoologico.exe
+C:\jardimzoologicoprojeto\JardimZoologico\JardimZoologico\obj\Debug\JardimZoologico.xml
+C:\jardimzoologicoprojeto\JardimZoologico\JardimZoologico\obj\Debug\JardimZoologico.pdb
+C:\jardimzoologicoprojeto\JardimZoologico\JardimZoologico\obj\Debug\JardimZoologico.Localidades.resources
+C:\jardimzoologicoprojeto\JardimZoologico\JardimZoologico\obj\Debug\JardimZoologico.Asc_or_desc.resources
+C:\jardimzoologicoprojeto\JardimZoologico\JardimZoologico\obj\Debug\JardimZoologico.Compras.resources
+C:\jardimzoologicoprojeto\JardimZoologico\JardimZoologico\obj\Debug\JardimZoologico.faturaatual.resources
+C:\jardimzoologicoprojeto\JardimZoologico\JardimZoologico\obj\Debug\JardimZoologico.animais.resources
+C:\jardimzoologicoprojeto\JardimZoologico\JardimZoologico\obj\Debug\JardimZoologico.Artigos.resources
+G:\3ºAno\PSI\Módulo 16\jardimzoologicoprojeto\JardimZoologico\JardimZoologico\bin\Debug\JardimZoologico.exe.config
+G:\3ºAno\PSI\Módulo 16\jardimzoologicoprojeto\JardimZoologico\JardimZoologico\obj\Debug\JardimZoologico.exe
+G:\3ºAno\PSI\Módulo 16\jardimzoologicoprojeto\JardimZoologico\JardimZoologico\obj\Debug\JardimZoologico.xml
+G:\3ºAno\PSI\Módulo 16\jardimzoologicoprojeto\JardimZoologico\JardimZoologico\obj\Debug\JardimZoologico.pdb
+G:\3ºAno\PSI\Módulo 16\jardimzoologicoprojeto\JardimZoologico\JardimZoologico\bin\Debug\JardimZoologico.exe
+G:\3ºAno\PSI\Módulo 16\jardimzoologicoprojeto\JardimZoologico\JardimZoologico\bin\Debug\JardimZoologico.pdb
+G:\3ºAno\PSI\Módulo 16\jardimzoologicoprojeto\JardimZoologico\JardimZoologico\bin\Debug\JardimZoologico.xml
+G:\3ºAno\PSI\Módulo 16\jardimzoologicoprojeto\JardimZoologico\JardimZoologico\obj\Debug\JardimZoologico.animais.resources
+G:\3ºAno\PSI\Módulo 16\jardimzoologicoprojeto\JardimZoologico\JardimZoologico\obj\Debug\JardimZoologico.Artigos.resources
+G:\3ºAno\PSI\Módulo 16\jardimzoologicoprojeto\JardimZoologico\JardimZoologico\obj\Debug\JardimZoologico.Asc_or_desc.resources
+G:\3ºAno\PSI\Módulo 16\jardimzoologicoprojeto\JardimZoologico\JardimZoologico\obj\Debug\JardimZoologico.Compras.resources
+G:\3ºAno\PSI\Módulo 16\jardimzoologicoprojeto\JardimZoologico\JardimZoologico\obj\Debug\JardimZoologico.faturaatual.resources
+G:\3ºAno\PSI\Módulo 16\jardimzoologicoprojeto\JardimZoologico\JardimZoologico\obj\Debug\JardimZoologico.Localidades.resources
+G:\3ºAno\PSI\Módulo 16\jardimzoologicoprojeto\JardimZoologico\JardimZoologico\obj\Debug\JardimZoologico.funcionarios.resources
+G:\3ºAno\PSI\Módulo 16\jardimzoologicoprojeto\JardimZoologico\JardimZoologico\obj\Debug\JardimZoologico.index.resources
+G:\3ºAno\PSI\Módulo 16\jardimzoologicoprojeto\JardimZoologico\JardimZoologico\obj\Debug\JardimZoologico.Resources.resources
+G:\3ºAno\PSI\Módulo 16\jardimzoologicoprojeto\JardimZoologico\JardimZoologico\obj\Debug\JardimZoologico.vbproj.GenerateResource.Cache
+C:\jardimzoologicoprojeto\JardimZoologico\JardimZoologico\obj\Debug\JardimZoologico.areacomum.resources
+C:\jardimzoologicoprojeto\JardimZoologico\JardimZoologico\obj\Debug\JardimZoologico.Bilheteira.resources
+C:\jardimzoologicoprojeto\JardimZoologico\JardimZoologico\bin\Debug\IDAutomation.NetAssembly.dll
+C:\jardimzoologicoprojeto\JardimZoologico\JardimZoologico\bin\Debug\KeepAutomation.Barcode.Windows.dll
+C:\jardimzoologicoprojeto\JardimZoologico\JardimZoologico\obj\Debug\JardimZoologico.Bilhete.resources
+D:\jardimzoologicoprojeto\JardimZoologico\JardimZoologico\bin\Debug\JardimZoologico.exe.config
+D:\jardimzoologicoprojeto\JardimZoologico\JardimZoologico\obj\Debug\JardimZoologico.exe
+D:\jardimzoologicoprojeto\JardimZoologico\JardimZoologico\obj\Debug\JardimZoologico.xml
+D:\jardimzoologicoprojeto\JardimZoologico\JardimZoologico\obj\Debug\JardimZoologico.pdb
+D:\jardimzoologicoprojeto\JardimZoologico\JardimZoologico\bin\Debug\JardimZoologico.exe
+D:\jardimzoologicoprojeto\JardimZoologico\JardimZoologico\bin\Debug\JardimZoologico.pdb
+D:\jardimzoologicoprojeto\JardimZoologico\JardimZoologico\bin\Debug\JardimZoologico.xml
+D:\jardimzoologicoprojeto\JardimZoologico\JardimZoologico\bin\Debug\IDAutomation.NetAssembly.dll
+D:\jardimzoologicoprojeto\JardimZoologico\JardimZoologico\bin\Debug\KeepAutomation.Barcode.Windows.dll
+D:\jardimzoologicoprojeto\JardimZoologico\JardimZoologico\obj\Debug\JardimZoologico.vbprojResolveAssemblyReference.cache
+D:\jardimzoologicoprojeto\JardimZoologico\JardimZoologico\obj\Debug\JardimZoologico.animais.resources
+D:\jardimzoologicoprojeto\JardimZoologico\JardimZoologico\obj\Debug\JardimZoologico.areacomum.resources
+D:\jardimzoologicoprojeto\JardimZoologico\JardimZoologico\obj\Debug\JardimZoologico.Artigos.resources
+D:\jardimzoologicoprojeto\JardimZoologico\JardimZoologico\obj\Debug\JardimZoologico.Asc_or_desc.resources
+D:\jardimzoologicoprojeto\JardimZoologico\JardimZoologico\obj\Debug\JardimZoologico.Bilhete.resources
+D:\jardimzoologicoprojeto\JardimZoologico\JardimZoologico\obj\Debug\JardimZoologico.Bilheteira.resources
+D:\jardimzoologicoprojeto\JardimZoologico\JardimZoologico\obj\Debug\JardimZoologico.Compras.resources
+D:\jardimzoologicoprojeto\JardimZoologico\JardimZoologico\obj\Debug\JardimZoologico.faturaatual.resources
+D:\jardimzoologicoprojeto\JardimZoologico\JardimZoologico\obj\Debug\JardimZoologico.Localidades.resources
+D:\jardimzoologicoprojeto\JardimZoologico\JardimZoologico\obj\Debug\JardimZoologico.funcionarios.resources
+D:\jardimzoologicoprojeto\JardimZoologico\JardimZoologico\obj\Debug\JardimZoologico.index.resources
+D:\jardimzoologicoprojeto\JardimZoologico\JardimZoologico\obj\Debug\JardimZoologico.Resources.resources
+D:\jardimzoologicoprojeto\JardimZoologico\JardimZoologico\obj\Debug\JardimZoologico.vbproj.GenerateResource.Cache
+C:\jardimzoologicoprojeto\JardimZoologico\JardimZoologico\obj\Debug\JardimZoologico.listabilheteshoje.resources
+C:\jardimzoologicoprojeto\JardimZoologico\JardimZoologico\obj\Debug\JardimZoologico.vbprojResolveAssemblyReference.cache
+C:\jardimzoologicoprojeto\JardimZoologico\JardimZoologico\bin\Debug\JardimZoologico.exe.manifest
+C:\jardimzoologicoprojeto\JardimZoologico\JardimZoologico\bin\Debug\JardimZoologico.application
+C:\jardimzoologicoprojeto\JardimZoologico\JardimZoologico\obj\Debug\JardimZoologico.exe.manifest
+C:\jardimzoologicoprojeto\JardimZoologico\JardimZoologico\obj\Debug\JardimZoologico.application

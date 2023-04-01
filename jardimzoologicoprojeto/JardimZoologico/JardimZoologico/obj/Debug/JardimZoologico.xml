@@ -1,0 +1,192 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+JardimZoologico
+</name>
+</assembly>
+<members>
+<member name="T:JardimZoologico.jardimzoologicoDataSet.ArtigosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:JardimZoologico.jardimzoologicoDataSet.ComprasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:JardimZoologico.jardimzoologicoDataSet.Detalhe_comprasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:JardimZoologico.jardimzoologicoDataSet.FuncionariosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:JardimZoologico.jardimzoologicoDataSet.LocalidadesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:JardimZoologico.jardimzoologicoDataSet.AnimaisDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:JardimZoologico.jardimzoologicoDataSet.BilheteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:JardimZoologico.jardimzoologicoDataSet.BilheteiraDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:JardimZoologico.jardimzoologicoDataSet.ArtigosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:JardimZoologico.jardimzoologicoDataSet.ComprasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:JardimZoologico.jardimzoologicoDataSet.Detalhe_comprasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:JardimZoologico.jardimzoologicoDataSet.FuncionariosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:JardimZoologico.jardimzoologicoDataSet.LocalidadesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:JardimZoologico.jardimzoologicoDataSet.AnimaisRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:JardimZoologico.jardimzoologicoDataSet.BilheteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:JardimZoologico.jardimzoologicoDataSet.BilheteiraRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:JardimZoologico.jardimzoologicoDataSet.ArtigosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:JardimZoologico.jardimzoologicoDataSet.ComprasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:JardimZoologico.jardimzoologicoDataSet.Detalhe_comprasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:JardimZoologico.jardimzoologicoDataSet.FuncionariosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:JardimZoologico.jardimzoologicoDataSet.LocalidadesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:JardimZoologico.jardimzoologicoDataSet.AnimaisRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:JardimZoologico.jardimzoologicoDataSet.BilheteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:JardimZoologico.jardimzoologicoDataSet.BilheteiraRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:JardimZoologico.jardimzoologicoDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:JardimZoologico.jardimzoologicoDataSetTableAdapters.ArtigosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:JardimZoologico.jardimzoologicoDataSetTableAdapters.ComprasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:JardimZoologico.jardimzoologicoDataSetTableAdapters.Detalhe_comprasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:JardimZoologico.jardimzoologicoDataSetTableAdapters.FuncionariosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:JardimZoologico.jardimzoologicoDataSetTableAdapters.LocalidadesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:JardimZoologico.jardimzoologicoDataSetTableAdapters.AnimaisTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:JardimZoologico.jardimzoologicoDataSetTableAdapters.BilheteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:JardimZoologico.jardimzoologicoDataSetTableAdapters.BilheteiraTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:JardimZoologico.jardimzoologicoDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(JardimZoologico.jardimzoologicoDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:JardimZoologico.jardimzoologicoDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(JardimZoologico.jardimzoologicoDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:JardimZoologico.jardimzoologicoDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(JardimZoologico.jardimzoologicoDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:JardimZoologico.jardimzoologicoDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:JardimZoologico.jardimzoologicoDataSetTableAdapters.TableAdapterManager.UpdateAll(JardimZoologico.jardimzoologicoDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:JardimZoologico.jardimzoologicoDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:JardimZoologico.jardimzoologicoDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:JardimZoologico.jardimzoologicoDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:JardimZoologico.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:JardimZoologico.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:JardimZoologico.My.Resources.Resources.delete_button">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:JardimZoologico.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
